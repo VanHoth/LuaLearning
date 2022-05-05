@@ -13,7 +13,8 @@ public class Main : MonoBehaviour
         a = 10;
 
         a = 20;
-        a = 50;
+        int b = 50;
+        a = 60;
     }
 
     // Update is called once per frame
